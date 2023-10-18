@@ -1,0 +1,17 @@
+
+
+One day, you stumble upon a hidden village known only to the inhabitants as The Land of Truth and Deception. 
+In this village, there are two types of people: Knights, who always tell the truth, and Knaves, who always lie. 
+You encounter a group of villagers and decide to determine who is a Knight and who is a Knave.
+0011001
+Sir Alpha proclaims: "All of us are Knaves."   
+"Exactly one of us is a Knight," retorts Sir Beta.
+Sir Gamma whispers: "At least one of Sir Alpha and I is a Knave."                  
+"At most one of Sir Beta and I is a Knight," claims Sir Delta.
+Sir Epsilon says: "Exactly one of Sir Gamma, Sir Delta, and I is a Knight!"
+"Sir Alpha or Sir Beta is a Knight," exclaims Sir Zeta.             
+"Sir Gamma and Sir Delta are Knights," asserts Sir Eta.                   
+What's your opinion?
+
+
+

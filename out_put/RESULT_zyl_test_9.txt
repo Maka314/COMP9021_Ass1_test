@@ -1,7 +1,7 @@
 Subprocess output:
 
-Which text file do you want to use for the puzzle? The Sirs are: Darius Garen Jinx Lee Riven
-There are 8 solutions.
+The Sirs are: Darius Garen Jinx Lee Riven
+There are 16 solutions.
 -----------------------
 Subprocess error output:
 

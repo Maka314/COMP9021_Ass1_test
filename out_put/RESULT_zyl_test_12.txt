@@ -1,7 +1,7 @@
 Subprocess output:
 
-The Sirs are: Frank Nina Paul
-There are 8 solutions.
+The Sirs are: Arthur Beatrix Michelle Tracy Xan Zoro
+There are 4 solutions.
 -----------------------
 Subprocess error output:
 

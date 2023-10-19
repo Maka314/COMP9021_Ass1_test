@@ -1,0 +1,8 @@
+Subprocess output:
+
+Which text file do you want to use for the puzzle? The Sirs are: Alice Alice, Bob Carol Dennis Eleonore Frank Greg Ian, Ishmael John Julia Julia, Sirius
+There are 1024 solutions.
+-----------------------
+Subprocess error output:
+
+-----------------------

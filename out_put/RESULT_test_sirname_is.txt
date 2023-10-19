@@ -1,0 +1,8 @@
+Subprocess output:
+
+Which text file do you want to use for the puzzle? The Sirs are: Alice Bob Carol
+There are 4 solutions.
+-----------------------
+Subprocess error output:
+
+-----------------------

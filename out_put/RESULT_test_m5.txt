@@ -1,0 +1,8 @@
+Subprocess output:
+
+Which text file do you want to use for the puzzle? The Sirs are: August Coral Jackson John Johnny Johnson Johnson, Sandy Siren Siren,
+There are 92 solutions.
+-----------------------
+Subprocess error output:
+
+-----------------------

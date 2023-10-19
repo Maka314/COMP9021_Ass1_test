@@ -22,6 +22,6 @@ if __name__ == '__main__':
         outputContent = 'Subprocess output:\n\n' + output + '-----------------------\nSubprocess error output:\n\n' + error_output + '-----------------------'
         print(outputContent)
 
-        outputPath = f'{resPath}/RESULT{testCaseName}'
+        outputPath = f'{resPath}/RESULT_{testCaseName}'
         with open(outputPath, 'w') as file:
             file.write(outputContent)

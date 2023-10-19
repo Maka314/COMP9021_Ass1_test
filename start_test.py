@@ -39,9 +39,9 @@ if __name__ == '__main__':
                 else:
                     print('\x1b[6;30;41m' + 'Failed' + '\x1b[0m')
                     print('----- Compared --------')
-                    print('Output:\n', output)
+                    print('Output:', output, sep='\n')
                     print()
-                    print('Expected:\n', expected_output)
+                    print('Expected:', expected_output, sep='\n')
                     print('----------------------')
                     
         outputPath = f'{resPath}/RESULT_{testCaseName}'

@@ -1,5 +1,3 @@
-Subprocess output:
-
 The Sirs are: Alpha Beta Delta Epsilon Eta Gamma Zeta
 There is a unique solution:
 Sir Alpha is a Knave.
@@ -9,7 +7,3 @@ Sir Epsilon is a Knave.
 Sir Eta is a Knight.
 Sir Gamma is a Knight.
 Sir Zeta is a Knave.
------------------------
-Subprocess error output:
-
------------------------

@@ -1,7 +1,7 @@
 Subprocess output:
 
-Which text file do you want to use for the puzzle? The Sirs are: Akali Ashe Darius
-There are 2 solutions.
+The Sirs are: Akali Ashe Darius Garen
+There are 4 solutions.
 -----------------------
 Subprocess error output:
 

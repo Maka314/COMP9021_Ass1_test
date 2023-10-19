@@ -1,5 +1,3 @@
-Subprocess output:
-
 The Sirs are: August Coral Jackson John Johnny Johnson Sandy Siren
 There is a unique solution:
 Sir August is a Knight.
@@ -10,7 +8,3 @@ Sir Johnny is a Knight.
 Sir Johnson is a Knave.
 Sir Sandy is a Knight.
 Sir Siren is a Knave.
------------------------
-Subprocess error output:
-
------------------------

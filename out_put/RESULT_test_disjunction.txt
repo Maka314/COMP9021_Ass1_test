@@ -1,7 +1,7 @@
 Subprocess output:
 
-Which text file do you want to use for the puzzle? The Sirs are: David David, Francis Grace
-There are 8 solutions.
+The Sirs are: David Francis Grace Harry
+There are 3 solutions.
 -----------------------
 Subprocess error output:
 

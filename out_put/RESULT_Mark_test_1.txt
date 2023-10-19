@@ -1,9 +1,10 @@
 Subprocess output:
 
-The Sirs are: Ian Jason
+The Sirs are: Alex David Emily
 There is a unique solution:
-Sir Ian is a Knight.
-Sir Jason is a Knave.
+Sir Alex is a Knave.
+Sir David is a Knave.
+Sir Emily is a Knight.
 -----------------------
 Subprocess error output:
 

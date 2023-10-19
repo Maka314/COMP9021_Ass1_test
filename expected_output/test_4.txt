@@ -1,0 +1,5 @@
+The Sirs are: Jenny John Paul
+There is a unique solution:
+Sir Jenny is a Knight.
+Sir John is a Knave.
+Sir Paul is a Knave.

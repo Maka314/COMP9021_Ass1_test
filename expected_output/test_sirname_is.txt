@@ -1,0 +1,2 @@
+The Sirs are: Alice Bob Carol
+There are 2 solutions.

@@ -1,0 +1,8 @@
+Subprocess output:
+
+The Sirs are: Darius Garen Jinx Lee Riven
+There are 4 solutions.
+-----------------------
+Subprocess error output:
+
+-----------------------

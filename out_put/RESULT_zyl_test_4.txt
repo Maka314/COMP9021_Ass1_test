@@ -1,0 +1,8 @@
+Subprocess output:
+
+The Sirs are: Ahri Akali Ashe Darius
+There is no solution.
+-----------------------
+Subprocess error output:
+
+-----------------------

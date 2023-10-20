@@ -1,0 +1,12 @@
+Subprocess output:
+
+The Sirs are: Carol Francine Neil Zelda
+There is a unique solution:
+Sir Carol is a Knight.
+Sir Francine is a Knight.
+Sir Neil is a Knave.
+Sir Zelda is a Knight.
+-----------------------
+Subprocess error output:
+
+-----------------------

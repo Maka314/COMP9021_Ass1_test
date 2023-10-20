@@ -1,2 +1,2 @@
-Which text file do you want to use for the puzzle? The Sirs are: Darius Garen Jinx Lee Riven Teemo Xin lane
+The Sirs are: Darius Garen Jinx Lee Riven Teemo Xin lane
 There is no solution.

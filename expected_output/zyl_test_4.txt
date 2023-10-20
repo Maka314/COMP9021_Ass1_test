@@ -1,2 +1,2 @@
-Which text file do you want to use for the puzzle? The Sirs are: Ahri Akali Ashe Darius
+The Sirs are: Ahri Akali Ashe Darius
 There is no solution.

@@ -1,0 +1,10 @@
+The Sirs are: August Coral Jackson John Johnny Johnson Sandy Siren
+There is a unique solution:
+Sir August is a Knight.
+Sir Coral is a Knight.
+Sir Jackson is a Knave.
+Sir John is a Knave.
+Sir Johnny is a Knight.
+Sir Johnson is a Knave.
+Sir Sandy is a Knight.
+Sir Siren is a Knave.

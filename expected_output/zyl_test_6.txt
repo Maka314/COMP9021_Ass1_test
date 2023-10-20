@@ -1,0 +1,6 @@
+The Sirs are: Ashe Darius Garen Jhin
+There is a unique solution:
+Sir Ashe is a Knight.
+Sir Darius is a Knave.
+Sir Garen is a Knave.
+Sir Jhin is a Knight.

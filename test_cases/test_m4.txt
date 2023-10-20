@@ -1,0 +1,10 @@
+"At least one of Sir John and Sir Dennis is a Knave," Sir Ian said.
+Sir Ishmael claims: "at most one of Sir John and I is a Knight."
+Sir Sirius said: "exactly one of Sir Ian, Sir Alice, Sir Bob and Sir Carol is a Knight."
+Sir Bob said: "all of us are Knaves."
+"At least one of Sir Alice and Sir Dennis is a Knight," whispered Sir Bob.
+"I am a Knight," whispered Sir Eleonore.
+"Sir Ishmael is a Knave," whispered Sir Sirius.
+Sir Frank said: "Sir Greg or Sir Carol is a Knight."
+Sir Greg said: "Sir Julia, I, Sir Dennis or Sir Carol is a Knight."
+Sir Julia said: "Sir Eleonore and Sir Frank are Knaves."

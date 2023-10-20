@@ -1,0 +1,10 @@
+Yesterday, I was playing League of Legends. 
+Sir Darius said: "At least one of us is a Knight."
+Sir Garen said: "At most one of Sir Jinx, Sir Lee or Sir Teemo is a Knight!"
+Sir Jinx said: "exactly one of Sir Garen, Sir Darius and Sir Riven is a Knave."
+Sir Lee said: "All of us are Knights."
+Sir Riven said: "I am a Knight."
+Sir Teemo said, "Sir Darius is a Knight."
+Sir Darius said: "Sir Garen or Sir Jinx is a Knight."
+Sir Lee agreed: "Sir Garen and Sir Riven are Knaves."
+What do you think? 

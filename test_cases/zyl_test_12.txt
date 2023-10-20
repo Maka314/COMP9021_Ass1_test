@@ -1,0 +1,13 @@
+Suppose you visited the island of Knights and Knaves. 
+You come across two of the inhabitants lazily lying in the sun.
+You met a group of 6 islanders. 
+Their names were Sirs Zoro, Beatrix, Arthur, Michelle, Tracy and Xan. 
+
+Sir Beatrix said: "Sir Zoro is a Knight."
+Sir Zoro said: "Sir Arthur is a Knave."
+Sir Arthur said: "Sir Beatrix is a Knave."
+Sir Tracy said: "Sir Xan is a Knight."
+Sir Michelle said: "Sir Tracy is a Knight."
+Sir Xan said: "Sir Michelle is a Knight."
+Sir Beatrix said: "Sir Xan is a Knave."
+Sir Beatrix added: "I am a Knight."

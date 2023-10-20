@@ -1,0 +1,14 @@
+Here is your 
+puzzle!
+You 
+have 
+	met a 
+group
+of 4 islanders. Their names are Sirs Neil, Carol 
+Zelda and Francine. Sir Carol says: "Sir Zelda is a 
+Knight!" "Sir Carol is a Knight," says by Sir 
+Francine.
+
+	Sir Zelda speaks: "Sir Francine is a 
+Knight." 	Sir Neil yells: "Sir Zelda and
+ I are Knaves." Please solve the puzzle.

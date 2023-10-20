@@ -1,0 +1,9 @@
+Sir John said: "Sir Coral or Sir Sandy is a Knave!"
+Sir Johnny said: "Sir Johnson, I, Sir August or Sir Jackson is a Knight."
+"I am a Knight," whispered Sir Sandy.
+Sir Sandy claims: "at most one of Sir John and I is a Knave."
+Sir Johnson said: "exactly one of Sir Siren, Sir August and Sir Coral is a Knight."
+"At least one of Sir Jackson and I is a Knave," whispered Sir August.
+Sir Coral said: "Sir Johnny or Sir Siren is a Knight!"
+Sir Jackson shouts: "exactly one of us is a Knight."
+Sir Siren said: "Sir Johnson and Sir Johnny are Knights."

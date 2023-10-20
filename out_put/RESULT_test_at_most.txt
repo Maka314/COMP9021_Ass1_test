@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: Eve Frank
-There is no solution.
------------------------
-Subprocess error output:
-
------------------------

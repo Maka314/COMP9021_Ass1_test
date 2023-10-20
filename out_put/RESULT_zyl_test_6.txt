@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: Ashe Darius Garen
-There are 8 solutions.
------------------------
-Subprocess error output:
-
------------------------

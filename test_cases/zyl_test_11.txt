@@ -1,14 +1,14 @@
 Yesterday, I was playing League of Legends. 
 Sir Darius said: "At least one of us is a Knight."
-Sirs Jinx and Teemo won bot Sir lane with the help from Sir Lee. 
+Sirs Jinx and Teemo won bot Sir Lane with the help from Sir Lee.
 Sir Lee said, "at least one of Sir Jinx and Sir Teemo is a Knight."
-Sir Garen said:"At most one of Sir Jinx, Sir Lee or Sir Teemo is a Knight!"
+Sir Garen said: "At most one of Sir Jinx, Sir Lee or Sir Teemo is a Knight!"
 Sir Lee disagreed: "I am a Knave."
 Sir Darius got ganked, and he 
-complained:"Sir Lee is a Knight."
-Sir Xin laughed:"Sir Darius is a Knave!"
-Sir Jinx said,"exactly one of Sir Garen, Sir Darius and Sir Riven is a Knave."
-Sir Teemo said, "Sir Darius is a Knight."
-Sir Darius said:"Sir Garen or Sir Jinx is a Knight."
-Sir Lee agreed:"Sir Garen and Sir Riven are Knaves."
+complained: "Sir Lee is a Knight."
+Sir Xin laughed: "Sir Darius is a Knave!"
+Sir Jinx said: "exactly one of Sir Garen, Sir Darius and Sir Riven is a Knave."
+Sir Teemo said: "Sir Darius is a Knight."
+Sir Darius said: "Sir Garen or Sir Jinx is a Knight."
+Sir Lee agreed: "Sir Garen and Sir Riven are Knaves."
 What do you think? 

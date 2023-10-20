@@ -1,0 +1,12 @@
+You have
+
+met a group of 6 islander. Their
+names are Sirs Uri, Beatrix, Samuel, Yuri, Connor and Vincent.
+
+Sir Beatrix  says: "Sir Samuel is a Knave." "Sir Uri is a Knave," Sir Beatrix speaks 
+out again. Sir Connor tells you: "Sir Yuri is a Knave!" Sir 	Uri says: "Sir Samuel and I are Knights."
+Sir Vincent says: "Sir Connor is a Knight!" "Sir 
+Vincent is a Knave," Sir Yuri wisphered. Sir Samuel talks: "Sir Connor and I are Knights." What
+do
+you 
+	think?

@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: David Francis Grace Harry
-There are 4 solutions.
------------------------
-Subprocess error output:
-
------------------------

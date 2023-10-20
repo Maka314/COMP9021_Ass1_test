@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: Hikaru Magnus
-There are 4 solutions.
------------------------
-Subprocess error output:
-
------------------------

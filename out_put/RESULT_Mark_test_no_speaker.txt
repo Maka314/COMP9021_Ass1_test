@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: 
-There is a unique solution:
------------------------
-Subprocess error output:
-
------------------------

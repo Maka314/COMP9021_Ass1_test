@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: Astely Roll Surprise
-There are 2 solutions.
------------------------
-Subprocess error output:
-
------------------------

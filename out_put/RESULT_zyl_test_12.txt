@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: Arthur Beatrix Michelle Tracy Xan Zoro
-There are 2 solutions.
------------------------
-Subprocess error output:
-
------------------------

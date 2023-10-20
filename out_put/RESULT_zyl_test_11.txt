@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: Darius Jinx Lee Teemo Xin
-There is no solution.
------------------------
-Subprocess error output:
-
------------------------

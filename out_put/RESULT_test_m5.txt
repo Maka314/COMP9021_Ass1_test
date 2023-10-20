@@ -1,8 +1,0 @@
-Subprocess output:
-
-The Sirs are: August Coral Jackson John Johnny Johnson Sandy Siren
-There are 3 solutions.
------------------------
-Subprocess error output:
-
------------------------

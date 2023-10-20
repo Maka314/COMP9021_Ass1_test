@@ -1,0 +1,5 @@
+The Sirs are: Eustice Tracy Wendy
+There is a unique solution:
+Sir Eustice is a Knave.
+Sir Tracy is a Knight.
+Sir Wendy is a Knave.

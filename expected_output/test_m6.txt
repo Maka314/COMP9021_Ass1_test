@@ -1,0 +1,9 @@
+The Sirs are: Alpha Beta Delta Epsilon Eta Gamma Zeta
+There is a unique solution:
+Sir Alpha is a Knave.
+Sir Beta is a Knave.
+Sir Delta is a Knight.
+Sir Epsilon is a Knave.
+Sir Eta is a Knight.
+Sir Gamma is a Knight.
+Sir Zeta is a Knave.

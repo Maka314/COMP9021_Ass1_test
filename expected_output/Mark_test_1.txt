@@ -1,0 +1,5 @@
+The Sirs are: Alex David Emily
+There is a unique solution:
+Sir Alex is a Knave.
+Sir David is a Knave.
+Sir Emily is a Knight.

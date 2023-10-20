@@ -1,6 +1,7 @@
 Yesterday, I was playing League of Legends. 
 Sir Darius said: "At least one of us is a Knight."
-Sirs Jinx and Teemo won.
+Sirs Jinx and Teemo won bot.
+Sir Lane with the help from Sir Lee.
 Sir Lee said, "at least one of Sir Jinx and Sir Teemo is a Knight."
 Sir Garen said: "At most one of Sir Jinx, Sir Lee or Sir Teemo is a Knight!"
 Sir Lee disagreed: "I am a Knave."
